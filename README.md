@@ -33,7 +33,6 @@ Try it live:
 ## 🖼 Preview
 
 ![Password Generator Screenshot](assets/preview.png)  
-*Replace with your own screenshot in the `assets/` folder.*
 
 ---
 
