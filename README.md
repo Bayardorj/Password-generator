@@ -26,7 +26,7 @@ Generate secure passwords with customizable options for uppercase, lowercase, nu
 ## 🌐 Live Demo
 
 Try it live:  
-[https://Bayardorj.github.io/password-generator/](https://Bayardorj.github.io/password-generator/)
+[https://bayardorj.github.io/password-generator/](https://bayardorj.github.io/password-generator/)
 
 ---
 
